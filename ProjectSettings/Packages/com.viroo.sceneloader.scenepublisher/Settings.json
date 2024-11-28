@@ -1,0 +1,16 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Viroo.SceneLoader.ScenePublisher.Unity.Editor.AssetBundleBuilderItemData[], Viroo.SceneLoader.ScenePublisher.Editor, Version=2.5.504.0, Culture=neutral, PublicKeyToken=null",
+                "key": "items",
+                "value": "{\"m_Value\":[{\"identifier\":\"66fa0d59-ab9a-419b-8f1f-d4cb5680f61d\",\"title\":\"Quimica(-10)\",\"thumbnail\":{\"fileID\":2800000,\"guid\":\"43a8dffad1a857d4e9d2167c92d459ef\",\"type\":3},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"f6bac280cf25be0428c8f8a6b55e5513\",\"type\":3},\"outputPath\":\"Publish/NewScene\",\"assemblyDefinitions\":[],\"includedFolders\":[]}]}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "packagesValidationRegex",
+                "value": "{\"m_Value\":\"^(ART\\\\.DTRACKPlugin|DOTween|HTC|LeapMotion|NMerso|Ultraleap|UniTask|Unity|Viroo\\\\.|Virtualware|Vivox).*|^Viroo$\"}"
+            }
+        ]
+    }
+}

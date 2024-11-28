@@ -1,0 +1,17 @@
+{
+    "name": "VirooLab_Additional",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6cbedd22dedbb8b43bd4eeebcecbd8c5",
+        "GUID:654cbb0f037a3e14f910aa37a018efd8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
