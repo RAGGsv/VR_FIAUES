@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Coating - Black Oxide
-    second: {fileID: 2100000, guid: 89391d4459d1bed438619216c6020b3c, type: 2}
+    second: {fileID: 2100000, guid: 611cba2766c5351489b618ba27dd203e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass - Medium Color
-    second: {fileID: 2100000, guid: beb62370a1b927b46b8f0116512791d0, type: 2}
+    second: {fileID: 2100000, guid: c76fc0485ad334547840fbc66438ccff, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Recubrimiento de polvo (naranja)
-    second: {fileID: 2100000, guid: 9c08ecfcecb1d0c42bc2ca5c9fae3319, type: 2}
+    second: {fileID: 2100000, guid: 165e0135b00759640857a62e367eea43, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Steel - Satin
-    second: {fileID: 2100000, guid: 1ed89cca68bdf86408ada79c1d4e44e9, type: 2}
+    second: {fileID: 2100000, guid: c8c602db688f79b4e8588a1673fcee93, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

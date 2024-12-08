@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: db8730e99fbd79649aa465ce00c2bce1
+guid: 9a1aa6600d0cbed46ad82b66891689bb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,23 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Coating - Black Oxide
-    second: {fileID: 2100000, guid: dc0f763396efd824ba9ac6ee812627d3, type: 2}
+      name: Glass - Medium Color
+    second: {fileID: 2100000, guid: aab0920bd67a38248bfd42391bb408fe, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Concrete - Tiles
-    second: {fileID: 2100000, guid: b1359d7d44587044e994d9d624e79179, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass (Bronze)
-    second: {fileID: 2100000, guid: 5b5972cf3e0dc9140b8e18a76baac28f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Powder Coat - Rough (White)
-    second: {fileID: 2100000, guid: 525a71b92b09c3243b478997901f2d36, type: 2}
+      name: Paint - Metallic (Silver)
+    second: {fileID: 2100000, guid: 7f1f7a219542039458babf765325158a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

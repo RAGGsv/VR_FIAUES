@@ -8,32 +8,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Aluminum - Cast
-    second: {fileID: 2100000, guid: 2a1a11db0e48f334385878eb16218ad3, type: 2}
+    second: {fileID: 2100000, guid: 259f47591a917994785f652beb807569, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Coating - Black Oxide
-    second: {fileID: 2100000, guid: 06eb9149d51942b4e93d96104b175f1d, type: 2}
+    second: {fileID: 2100000, guid: 15b8fb58b97e0be4abf0a54d44c08616, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass (Bronze)
-    second: {fileID: 2100000, guid: c41a841fd2a35b84bba121e795f578c1, type: 2}
+    second: {fileID: 2100000, guid: 715c23af651a6784cb3c4b1011ada7da, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Paint - Metallic (Red)
-    second: {fileID: 2100000, guid: f15357d28cdb2ce4f925148bd092c6ea, type: 2}
+    second: {fileID: 2100000, guid: 854dab06a9bdf6f4587dc2979a6925a4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Powder Coat - Rough (Red)
-    second: {fileID: 2100000, guid: 3856819e3e418cf4591a338cdbdf44a4, type: 2}
+    second: {fileID: 2100000, guid: ff551d168f4025542a3fe7916ca8c9ad, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Powder Coat - Rough (White)
-    second: {fileID: 2100000, guid: 9ec79b2cbfcdaff468b0467ac3f02e92, type: 2}
+    second: {fileID: 2100000, guid: 2e8acf0e62adc714da33e93655ec0d29, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

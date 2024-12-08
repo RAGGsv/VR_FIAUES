@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: db8730e99fbd79649aa465ce00c2bce1
+guid: c5fb38bf97f742a41b77002f500cd679
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,22 +8,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Coating - Black Oxide
-    second: {fileID: 2100000, guid: dc0f763396efd824ba9ac6ee812627d3, type: 2}
+    second: {fileID: 2100000, guid: a08f87c695d82e547b928154fd08cadd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Concrete - Tiles
-    second: {fileID: 2100000, guid: b1359d7d44587044e994d9d624e79179, type: 2}
+      name: Glass - Medium Color
+    second: {fileID: 2100000, guid: 93f930b5f7a301c4e9f104e8536b0ff2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Glass (Bronze)
-    second: {fileID: 2100000, guid: 5b5972cf3e0dc9140b8e18a76baac28f, type: 2}
+      name: Powder Coat (White)
+    second: {fileID: 2100000, guid: 83fc4dc2f313ed541b4f9f1a74ed2c9d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Powder Coat - Rough (White)
-    second: {fileID: 2100000, guid: 525a71b92b09c3243b478997901f2d36, type: 2}
+      name: Steel - Galvanized (Small)
+    second: {fileID: 2100000, guid: f743dc64f807a9542bd169335e3547b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel - Satin
+    second: {fileID: 2100000, guid: 85319bc05a8046749885666267dea474, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
