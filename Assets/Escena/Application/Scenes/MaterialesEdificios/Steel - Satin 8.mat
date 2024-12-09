@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Steel - Satin 2
+  m_Name: Steel - Satin 8
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 1cb18e4767a358d4e94cd80b7c2ba97d, type: 2}
+  m_Parent: {fileID: 2100000, guid: a93c90bedabc75348aec1dc34a1a7228, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
