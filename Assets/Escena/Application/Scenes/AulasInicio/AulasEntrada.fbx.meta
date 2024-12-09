@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9a1aa6600d0cbed46ad82b66891689bb
+guid: 41ab775213d29ef48becd1e0d8bb446e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,13 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Glass - Medium Color
-    second: {fileID: 2100000, guid: 4246319e006728746a53cf134f7b7f8c, type: 2}
+      name: Coating - Black Oxide
+    second: {fileID: 2100000, guid: 9d8851778b98f6a46ade89a053e397d8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Paint - Metallic (Silver)
-    second: {fileID: 2100000, guid: 207fb35af7f89e74cade16da97260c42, type: 2}
+      name: Glass - Medium Color
+    second: {fileID: 2100000, guid: 897a6ab8f534a9642a828fc81f6c1bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Powder Coat - Rough (Grey)
+    second: {fileID: 2100000, guid: 91075bd9d220c6c4e9a46bf8a9648e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Powder Coat - Rough (White)
+    second: {fileID: 2100000, guid: 4e4ab1216a104f444bfcd3db4a592a22, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

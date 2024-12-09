@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c5b21c5170e479945bd1f5e307bb57fe
+guid: 80348432b067417448246ca3580346cf
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,22 +8,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Coating - Black Oxide
-    second: {fileID: 2100000, guid: 611cba2766c5351489b618ba27dd203e, type: 2}
+    second: {fileID: 2100000, guid: 4777726ba5d941b4da686f853257ca86, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Glass - Medium Color
-    second: {fileID: 2100000, guid: c76fc0485ad334547840fbc66438ccff, type: 2}
+      name: Glass (Bronze)
+    second: {fileID: 2100000, guid: e0c1de5bc8a252842bd85519d873130f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Recubrimiento de polvo (naranja)
-    second: {fileID: 2100000, guid: 165e0135b00759640857a62e367eea43, type: 2}
+      name: Paint - Metallic (Red)
+    second: {fileID: 2100000, guid: 9d89cc672afd7e74dbbc297efbdbdcc1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Steel - Satin
-    second: {fileID: 2100000, guid: c8c602db688f79b4e8588a1673fcee93, type: 2}
+      name: Powder Coat - Rough (Red)
+    second: {fileID: 2100000, guid: 1ba2f14503db8e7468de0d13e40bb08b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Powder Coat - Rough (White)
+    second: {fileID: 2100000, guid: 4ec42a29adc9aae479a263b925fe279c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
