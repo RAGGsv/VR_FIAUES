@@ -65703,9 +65703,8 @@ MonoBehaviour:
   menu: {fileID: 541752473}
   showParentMenuActions: 0
   actions:
-  - {fileID: 1253211406}
   - {fileID: 1295114462}
-  - {fileID: 1156372877}
+  - {fileID: 898069644}
 --- !u!64 &1852410371
 MeshCollider:
   m_ObjectHideFlags: 0
